@@ -1,28 +1,29 @@
 {
-  "name": "horizon-scroll",
-  "main":  [
-      "./jquery-1.10.2.js",
-      "./jquery.touchSwipe.js",
-      "./jquery.horizonScroll.js",
-      "./css/style.css"
-  ],
-  "version": "0.0.0",
-  "homepage": "https://github.com/kuzroman/jquery.horizonScroll.js",
-  "authors": [
-    "kuzroman <kuzroman@list.ru>"
-  ],
-  "description": "horizon scroll",
-  "keywords": [
-    "horizon",
-    "scroll",
-    "slide"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "horizon-scroll",
+    "main": [
+        "./jquery.horizonScroll.js"
+    ],
+    "dependencies": {
+        "jquery": "~",
+        "jquery-touchswipe": "~1.6.8"
+    },
+    "version": "0.0.0",
+    "homepage": "https://github.com/kuzroman/jquery.horizonScroll.js",
+    "authors": [
+        "kuzroman <kuzroman@list.ru>"
+    ],
+    "description": "horizon scroll",
+    "keywords": [
+        "horizon",
+        "scroll",
+        "slide"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
