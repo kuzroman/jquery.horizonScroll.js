@@ -1,5 +1,5 @@
 {
-  "name": "horizonScroll",
+  "name": "horizon-scroll",
   "main":  [
       "./jquery-1.10.2.js",
       "./jquery.touchSwipe.js",
