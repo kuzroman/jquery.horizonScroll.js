@@ -4,7 +4,7 @@
         "./jquery.horizonScroll.js"
     ],
     "dependencies": {
-        "jquery": "~",
+        "jquery": ">=2.0.0",
         "jquery-touchswipe": "~1.6.8"
     },
     "version": "0.0.0",
