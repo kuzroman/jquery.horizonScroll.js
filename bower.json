@@ -1,0 +1,23 @@
+{
+  "name": "jquery.horizonScroll.js",
+  "main": "jquery.horizonScroll.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kuzroman/jquery.horizonScroll.js",
+  "authors": [
+    "kuzroman <kuzroman@list.ru>"
+  ],
+  "description": "horizon scroll",
+  "keywords": [
+    "horizon",
+    "scroll",
+    "slide"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
